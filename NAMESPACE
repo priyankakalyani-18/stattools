@@ -1,0 +1,2 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(ggplot2, ggplot, aes, geom_point, geom_hline, labs, theme_minimal, scale_color_manual)
